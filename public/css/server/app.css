@@ -1,0 +1,148 @@
+h1.login-header
+{
+    background: #222;
+    color: #FFF;
+}
+
+#sidebar-wrapper
+{
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#page-content-wrapper
+{
+    padding: 0;
+}
+
+div.z-depth-1
+{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+div.box
+{
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 800px;
+}
+
+h1.title
+{
+    margin: 0 0 15px 0;
+    padding: 0;
+}
+
+h1.main
+{
+     width: 100%;
+     margin:0;
+     position: fixed;
+     padding: 20px;
+     background-color:#FFF;
+     box-shadow: 0px 2px 4px 1px #ccc;
+     color: #3f9ae7;
+     z-index: 9999;
+}
+
+hr.spacer
+{
+    margin: 10px 0 0 0;
+    border: 0;
+    height: 1px;
+    background: #333;
+}
+
+#eventList tr th
+{
+    cursor: pointer;
+}
+
+div.panel-heading
+{
+    position: relative;
+    border-bottom: 1px solid #efefef;
+}
+
+#eventList #search
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    border-left: 1px solid #efefef;
+    outline: none;
+    height: 100%;
+    padding: 5px 15px;
+    width: 300px;
+}
+
+table.table
+{
+    margin-bottom: 0;
+}
+
+div.calendar
+{
+    margin: 20px;
+}
+
+div.calendar h3
+{
+     margin:0; padding: 20px 8px;
+     clear: both;
+}
+
+div.day
+{
+    float: left;
+    width: 200px;
+    border: 1px solid #ebebeb;
+    height: 200px;
+    min-height: 200px;
+    max-height: 200px;
+    margin: 4px;
+}
+
+div.day h6
+{
+    margin: 0;
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+    border-bottom: 1px solid #efefef;
+}
+
+div.day h6 a
+{
+    float: right;
+}
+
+
+a.day-event
+{
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    font-size:12px;
+    margin:5px;
+    padding:2px;
+    background-color:#699ce8;
+    color:white;
+}
+
+
+
+#logoPreview img
+{
+    max-width: 100%;
+}
+
+#clearLogo
+{
+
+}
+
+#fullLogo
+{
+}

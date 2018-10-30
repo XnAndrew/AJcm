@@ -1,0 +1,29 @@
+#start
+{
+    display: none;
+}
+
+#end
+{
+    display: none;
+}
+
+.event *
+{
+    text-align: center;
+    padding: 20px;
+}
+
+div.logoContainer
+{
+    position: absolute;
+    left: 160px;
+    bottom: 320px;
+}
+
+.event img.logo
+{
+   height: 150px;
+   max-height:150px;
+    /*max-width: 200px;*/
+}

@@ -1,0 +1,75 @@
+/* Use this stylesheet to override room styles */
+
+body
+{
+    font-family: baskerville;
+}
+
+#noEvent
+{
+    color: #FFF;
+    text-align: center;
+    font-family: baskerville;
+}
+
+#noEvent h1
+{
+    margin-top: 2.2em;
+    font-size: 8em;
+    text-transform: uppercase;
+}
+
+#noEvent h2
+{
+    display: none;
+    padding: 20px;
+    font-size:4em;
+}
+
+#room
+{
+    margin-top: 2.2em;
+    font-size: 8em;
+    color: #FFF;
+    font-family: baskerville;
+    text-transform: uppercase;
+}
+
+#title
+{
+    font-size: 6em;
+    padding-top: 20px;
+    color: #FFF;
+    font-family: baskerville;
+}
+
+#detail
+{
+    font-size: 1.5em;
+    color: #FFF;
+    font-family: gillsansmt-light;
+}
+
+#start
+{
+    /*font-size: 3em;*/
+    color: #FFF;
+    font-family: gillsansmt-light;
+
+}
+
+#end
+{
+    /*font-size: 3em;*/
+    color: #FFF;
+    font-family: gillsansmt-light;
+
+}
+
+.event img.logo
+{
+    /*display: block;
+    margin: 0 auto;
+    max-width: 700px;
+    height: auto;*/
+}

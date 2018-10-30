@@ -1,0 +1,17 @@
+.event *
+{
+    text-align: left;
+    padding: 20px;
+}
+
+div.logoContainer
+{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+.event img.logo
+{
+    max-height: 400px;
+}

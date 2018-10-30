@@ -1,0 +1,41 @@
+/* Use this stylesheet to override directional styles */
+
+body
+{
+    font-family: gillsansmt-light;
+}
+
+#noEvent
+{
+    color: #FFF;
+    font-size: 2em;
+}
+
+
+tr.listitem
+{
+    /*font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    background: none;
+    border: none;
+    box-sizing: border-box;*/
+    color: #FFF;
+
+}
+
+tr.listitem td.title
+{
+    /*color: #FFF000;*/
+}
+
+tr.listitem td.room
+{
+    /*color: #EFEFEF;*/
+    font-family: baskerville;
+}
+
+tr.listitem img.direction
+{
+    /*color: #FF00FF;*/
+}

@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'baskerville';
+    src: url('../../fonts/baskerville/baskerville-webfont.eot');
+    src: url('../../fonts/baskerville/baskerville-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/baskerville/baskerville-webfont.woff2') format('woff2'),
+         url('../../fonts/baskerville/baskerville-webfont.woff') format('woff'),
+         url('../../fonts/baskerville/baskerville-webfont.ttf') format('truetype'),
+         url('../../fonts/baskerville/baskerville-webfont.svg#baskervlle2_btroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gillsansmt';
+    src: url('../../fonts/gillsansmt/gillsansmt.eot');
+    src: url('../../fonts/gillsansmt/gillsansmt.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/gillsansmt/gillsansmt.woff2') format('woff2'),
+         url('../../fonts/gillsansmt/gillsansmt.woff') format('woff'),
+         url('../../fonts/gillsansmt/gillsansmt.ttf') format('truetype'),
+         url('../../fonts/gillsansmt/gillsansmt.svg#gillsansmt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gillsansmt-light';
+    src: url('../../fonts/gillsansmt/gillsansmt-light.eot');
+    src: url('../../fonts/gillsansmt/gillsansmt-light.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/gillsansmt/gillsansmt-light.woff2') format('woff2'),
+         url('../../fonts/gillsansmt/gillsansmt-light.woff') format('woff'),
+         url('../../fonts/gillsansmt/gillsansmt-light.ttf') format('truetype'),
+         url('../../fonts/gillsansmt/gillsansmt-light.svg#gillsansmt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
